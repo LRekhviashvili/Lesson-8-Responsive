@@ -1,0 +1,166 @@
+.header{
+	width: 1712px;
+	margin: 0 auto;
+	margin-top: 100px;
+	display: flex;
+	justify-content: space-between;
+}
+
+.left-corner-text{
+	width: 195px;
+	color: #4B647E;
+	font-size: 32px;
+}
+.navigation{
+	width: 590px;
+	display: flex;
+	justify-content: space-between;
+	flex-direction: row;
+	color: #3D37F1;
+}
+.span{
+	color: #3D37F1;
+}
+
+.wraper{
+	width: 1730px;
+	height: 538px;
+	margin: 0 auto;
+	margin-top: 285px;
+	margin-bottom: 300px;
+	display: flex;
+	justify-content: space-between;
+}
+.left-text-block{
+	width: 600px;
+	height: 526px;
+	display: flex;
+	justify-content: center;
+	flex-direction: column;
+}
+.right-image-block{
+	width: 800px;
+	height: 526px;
+}
+.h2{
+	font-size: 40px;
+	margin-bottom: 42px;
+}
+.p-size{
+   width: 400px;
+}
+.circle-block1{
+	width: 263.67px;
+	height: 76.77px;
+	background: #3D37F1;
+	border-radius: 38px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin-top: 250px;
+}
+.circle-box-text-size{
+	margin-left: 24px;
+	color: #FFFFFF;
+}
+.container{
+	width: 1170px;
+	height: 1247px;
+	margin: 0 auto;
+	background: white;
+}
+.block1{
+	width: 370px;
+	height: 451px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+}
+.color1 {
+	background: #FBBA77;
+}
+.color1:hover{
+    background: red;
+}
+.color2{
+	background: #41EAE3;
+}
+.color2:hover{
+	background: greenyellow;
+}
+.color3{
+	background: #69529F;
+}
+.color3:hover{
+	background: skyblue;
+}
+.color4 {
+	background: #4386D2;
+}
+.color4:hover{
+    background: red;
+}
+.color5{
+	background: #A5A2F6;
+}
+.color5:hover{
+	background: greenyellow;
+}
+.color6{
+	background: #FF8088;
+}
+.color6:hover{
+	background: skyblue;
+}
+.line1{
+	display: flex;
+	justify-content: space-between;
+}
+.circle-block {
+	width: 131px;
+	height: 45px;
+    background: white;
+    border-radius: 23px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 13px;
+}
+.box-text {
+	color: #FFFFFF;
+	width: 328px;
+	height: 62px;
+	text-align: center;
+	margin-top: 13px;
+}
+.box-title {
+	color: #FFFFFF;
+	width: 106px;
+	height: 27px;
+	text-align: center;
+	margin-top: 57px;
+}
+.top{
+	margin-top: 60px;
+	margin-bottom: 132px;
+}
+.top1{
+	margin-top: 80px;
+}
+.h3-color{
+	color: #3D37F1;
+}
+
+.text-box {
+	width: 712px;
+	height: 85px;
+	margin: 0 auto;
+	text-align: center;
+}
+.size-h2{
+	font-size: 40px;
+}
+.size {
+	margin-top: 27px;
+}
