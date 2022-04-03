@@ -1,23 +1,10 @@
-@media (max-width:900px) {
-    .wraper{
+@media (max-width:1625px) {
+    .navigation{
         display: none;
     }
     .burger-bar {
         display: block;
+        margin-right: 20px;
     }
 }
 
-@media (max-width: 900px) {
-    .container {
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-        height: auto;
-    }
-}
-
-@media (max-width:900px) {
-    .container {
-        justify-content: center;
-    }
-}

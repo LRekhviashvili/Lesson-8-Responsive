@@ -164,3 +164,9 @@
 .size {
 	margin-top: 27px;
 }
+
+.burger-bar {
+    color: red;
+    font-size:100px;
+    display: none;
+}
